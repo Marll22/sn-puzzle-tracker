@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="units" table="x_457102_puzzle_tr_puzzle" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>units</element>
+            <name>x_457102_puzzle_tr_puzzle</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2021-03-13 13:01:56</sys_created_on>
+            <sys_id>b2837c7a2f7a20100dd6af5df699b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>units</sys_name>
+            <sys_package display_value="Puzzle Tracker" source="x_457102_puzzle_tr">62c063ea2f7620100dd6af5df699b6b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Puzzle Tracker">62c063ea2f7620100dd6af5df699b6b5</sys_scope>
+            <sys_update_name>sys_choice_x_457102_puzzle_tr_puzzle_units</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2021-03-13 13:01:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>units</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inches</label>
+            <language>en</language>
+            <name>x_457102_puzzle_tr_puzzle</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2021-03-13 13:01:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a837c7a2f7a20100dd6af5df699b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2021-03-13 13:01:56</sys_updated_on>
+            <value>in</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>units</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Centimeters</label>
+            <language>en</language>
+            <name>x_457102_puzzle_tr_puzzle</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2021-03-13 13:01:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba837c7a2f7a20100dd6af5df699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2021-03-13 13:01:56</sys_updated_on>
+            <value>cm</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
