@@ -3,7 +3,7 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description/>
+        <description>Convert dimension values from inches to cm or cm to inches based on the selected Units</description>
         <field>units</field>
         <global>true</global>
         <isolate_script>true</isolate_script>
@@ -35,20 +35,20 @@
 
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
-        <sys_created_by>fred.luddy</sys_created_by>
-        <sys_created_on>2021-03-13 13:05:34</sys_created_on>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-13 14:00:14</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>f62434ba2f7a20100dd6af5df699b675</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>7e7045362fba20100dd6af5df699b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Convert dimensions</sys_name>
         <sys_overrides/>
         <sys_package display_value="Puzzle Tracker" source="x_457102_puzzle_tr">62c063ea2f7620100dd6af5df699b6b5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Puzzle Tracker">62c063ea2f7620100dd6af5df699b6b5</sys_scope>
-        <sys_update_name>sys_script_client_f62434ba2f7a20100dd6af5df699b675</sys_update_name>
+        <sys_update_name>sys_script_client_7e7045362fba20100dd6af5df699b6d3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-13 13:23:40</sys_updated_on>
+        <sys_updated_on>2021-03-13 14:00:14</sys_updated_on>
         <table>x_457102_puzzle_tr_puzzle</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
